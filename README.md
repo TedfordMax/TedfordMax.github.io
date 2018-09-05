@@ -5,3 +5,11 @@ class 1
   
   wtf
   
+*Things I don't know in this class
+ *everything
+ *HTML
+ *Github
+ *Gits
+ *everything again
+ 
+ 
